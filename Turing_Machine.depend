@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700757769 source:c:\users\jp\documents\program\4p\1ntegrar\turing_machine\main.c
+	<stdio.h>
+	<string.h>
+	"turing.h"
+
+1700757918 source:c:\users\jp\documents\program\4p\1ntegrar\turing_machine\turing.c
+	<stdio.h>
+	<string.h>
+
+1700757540 c:\users\jp\documents\program\4p\1ntegrar\turing_machine\turing.h
+	<stdio.h>
+	<string.h>
+

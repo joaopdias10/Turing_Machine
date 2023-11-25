@@ -1,0 +1,3 @@
+João Pedro Meurer Dias - a2461110
+
+Sinto que não consegui explicar direito a função TuringMachine, principalmente na parte da copia da fita/cabeçote e na recursão, mas não sei como descrever de forma melhor
